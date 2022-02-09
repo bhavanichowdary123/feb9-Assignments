@@ -1,0 +1,17 @@
+num1 = int(input("enter first number:"))
+first number is 4
+num2 = int(input("enter second number:"))
+second number is 6
+if num1 >= num2:
+if num1 == num2:
+print("both are equal")
+else
+print("first number is bigger than the second number")
+else
+print(
+"second number is bigger than the first number")
+
+output:
+enter first number : 4
+enter second number : 6
+second number is bigger than the first number
